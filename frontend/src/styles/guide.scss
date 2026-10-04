@@ -23,10 +23,7 @@
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
     line-height: 1.6;
 
-    h1,
-    h2,
-    h3,
-    h4 {
+    h1, h2, h3, h4 {
         margin: 1.75rem 0 0.75rem;
         line-height: 1.2;
     }
@@ -36,17 +33,11 @@
         font-size: 2.5rem;
     }
 
-    p,
-    ol,
-    ul,
-    blockquote,
-    table,
-    details {
+    p, ol, ul, blockquote, table, details {
         margin: 1rem 0;
     }
 
-    ol,
-    ul {
+    ol, ul {
         padding-left: 1.5rem;
     }
 
@@ -89,8 +80,7 @@
         border-collapse: collapse;
     }
 
-    th,
-    td {
+    th, td {
         padding: 0.5rem 0.75rem;
         border: 1px solid #475569;
         text-align: left;
